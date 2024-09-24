@@ -29,3 +29,13 @@
     | `brew bundle list` | 列出 Brewfile 中的套件 |
 
 
+## 環境變數
+
+- nvm
+
+    ```bash
+    brew install nvm
+    source $(brew --prefix nvm)/nvm.sh
+    ```
+
+    > Reference: https://collabnix.com/how-to-install-and-configure-nvm-on-mac-os/
