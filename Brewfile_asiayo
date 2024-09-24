@@ -1,0 +1,12 @@
+tap "shivammathur/php"
+
+brew "composer"
+brew "php@8.2", link: true
+brew "shivammathur/php/php@7.3"
+brew "shivammathur/php/php@8.0"
+
+cask "another-redis-desktop-manager"
+cask "chromedriver"
+cask "clickup"
+cask "slack"
+cask "tableplus"
