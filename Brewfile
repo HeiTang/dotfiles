@@ -3,6 +3,7 @@ tap "homebrew/bundle"
 
 # Homebrew Package
 brew "ack"
+brew "jordanbaird-ice"
 brew "git"
 brew "htop"
 brew "hugo"   # Static Site Generator (SSG)
@@ -38,7 +39,6 @@ cask "font-sauce-code-pro-nerd-font"
 cask "github"
 cask "gitkraken"
 cask "google-chrome"
-cask "hiddenbar"
 cask "home-assistant"
 cask "imazing"
 cask "iterm2"
