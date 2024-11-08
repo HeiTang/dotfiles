@@ -1,5 +1,6 @@
 # Homebrew Tap Repository
 tap "homebrew/bundle"
+tap "pakerwreah/calendr"
 
 # Homebrew Package
 brew "ack"
@@ -28,6 +29,7 @@ cask "arc"
 cask "appcleaner"
 # cask "bettertouchtool"
 cask "burp-suite"
+cask "calendr"
 cask "charles"
 cask "chatgpt"
 cask "cloudflare-warp"
