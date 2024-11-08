@@ -21,6 +21,7 @@ brew "zsh"
 
 # Homebrew Cask
 cask "1password"
+cask "1password-cli"
 cask "adguard"
 cask "adguard-vpn"
 cask "arc"
