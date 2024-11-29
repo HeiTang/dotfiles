@@ -81,6 +81,7 @@ cask "the-unarchiver"
 # cask "vlc"
 cask "visual-studio-code"
 # cask "vmware-fusion"
+cask "warp"
 cask "wireshark"
 
 # Mac App Store
